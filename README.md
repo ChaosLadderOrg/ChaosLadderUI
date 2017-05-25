@@ -1,4 +1,8 @@
-# Angular2DevelopmentCLI
+# Chaos Ladder Angular2 UI
+
+This is a modified template based on the [CoreUI-Free Admin Theme-Angular2 Starter](https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template/tree/master/Angular2_CLI_Starter).
+
+## Angular2DevelopmentCLI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.32.3.
 
